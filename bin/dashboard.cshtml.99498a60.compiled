@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Tickets/Dashboard.cshtml" hash="278a79f9" filehash="fffffa4608521537" flags="110000" assembly="App_Web_dashboard.cshtml.99498a60" type="ASP._Page_Views_Tickets_Dashboard_cshtml">
+    <filedeps>
+        <filedep name="/Views/Tickets/Dashboard.cshtml" />
+    </filedeps>
+</preserve>

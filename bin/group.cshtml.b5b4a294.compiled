@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/Admin/Views/Group/Group.cshtml" hash="6a9576bb" filehash="2de1afe1dfa2" flags="110000" assembly="App_Web_group.cshtml.b5b4a294" type="ASP._Page_Areas_Admin_Views_Group_Group_cshtml">
+    <filedeps>
+        <filedep name="/Areas/Admin/Views/Group/Group.cshtml" />
+    </filedeps>
+</preserve>

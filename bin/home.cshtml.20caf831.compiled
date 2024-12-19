@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/Admin/Views/TicketsAdmin/Home.cshtml" hash="6a9576bb" filehash="ffffd3e588a7c4a8" flags="110000" assembly="App_Web_home.cshtml.20caf831" type="ASP._Page_Areas_Admin_Views_TicketsAdmin_Home_cshtml">
+    <filedeps>
+        <filedep name="/Areas/Admin/Views/TicketsAdmin/Home.cshtml" />
+    </filedeps>
+</preserve>

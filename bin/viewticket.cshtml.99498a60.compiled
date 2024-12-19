@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Tickets/ViewTicket.cshtml" hash="278a79f9" filehash="ffffef9ccff20969" flags="110000" assembly="App_Web_viewticket.cshtml.99498a60" type="ASP._Page_Views_Tickets_ViewTicket_cshtml">
+    <filedeps>
+        <filedep name="/Views/Tickets/ViewTicket.cshtml" />
+    </filedeps>
+</preserve>

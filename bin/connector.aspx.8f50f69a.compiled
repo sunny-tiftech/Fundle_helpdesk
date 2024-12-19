@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Scripts/ckfinder/core/connector/aspx/connector.aspx" hash="df3cfe28f" filehash="85eac6b679e4adf5" flags="110000" assembly="App_Web_connector.aspx.8f50f69a" type="ASP.scripts_ckfinder_core_connector_aspx_connector_aspx">
+    <filedeps>
+        <filedep name="/Scripts/ckfinder/config.ascx" />
+        <filedep name="/Scripts/ckfinder/core/connector/aspx/connector.aspx" />
+    </filedeps>
+</preserve>

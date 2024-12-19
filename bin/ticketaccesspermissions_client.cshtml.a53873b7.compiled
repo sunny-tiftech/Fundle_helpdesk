@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Areas/Admin/Views/User/TicketAccessPermissions_Client.cshtml" hash="6a9576bb" filehash="ffffecbbf01f923b" flags="110000" assembly="App_Web_ticketaccesspermissions_client.cshtml.a53873b7" type="ASP._Page_Areas_Admin_Views_User_TicketAccessPermissions_Client_cshtml">
+    <filedeps>
+        <filedep name="/Areas/Admin/Views/User/TicketAccessPermissions_Client.cshtml" />
+    </filedeps>
+</preserve>

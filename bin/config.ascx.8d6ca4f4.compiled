@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ckfinder/config.ascx" hash="df3cfe28f" filehash="28bcfa58870f" flags="110000" assembly="App_Web_config.ascx.8d6ca4f4" type="ASP.ckfinder_config_ascx">
+    <filedeps>
+        <filedep name="/ckfinder/config.ascx" />
+    </filedeps>
+</preserve>
